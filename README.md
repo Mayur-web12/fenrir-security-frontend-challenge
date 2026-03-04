@@ -1,6 +1,6 @@
 # Fenrir Security Frontend Design Challenge
 
-This project is my submission for the **Frontend Intern Technical Screening Task** at Fenrir Security.
+This project is my submission for the **Frontend Intern Task** at Fenrir Security.
 
 ## Overview
 The goal of this task was to recreate the UI screens provided in the design reference and build an interactive React application.
