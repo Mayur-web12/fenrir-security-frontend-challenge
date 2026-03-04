@@ -29,4 +29,3 @@ The Scan Details page layout is partially started and will be completed in the n
 - Status badges and progress bars
 - Reusable React components
 
-## Project Structure
